@@ -200,21 +200,21 @@ kemasan dan nota harus disertakan waktu klaim, Spesifikasi Teknis, Penelusuran, 
         </div>
         <div class="col">
           <div class="card">
-            <img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/3/1/b98e214c-513c-4bca-ac46-9c0681fea277.jpg" class="card-img-top"></img>
+            <img src="https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/8/14/8b284b25-4b90-4e8b-b3e6-ea9a73d53bf9.jpg.webp?ect=4g" class="card-img-top"></img>
             <div class="card-body">
-              <h5 class="card-title">PVC Figure 1/7 Klee Genshin Impact - Spark Knight Ver.</h5>
-              <p class="card-text">Action figure Klee dari Genshin Impact</p>
-              <a href="https://www.tokopedia.com/amajind/pvc-figure-1-7-klee-genshin-impact-spark-knight-ver" class="btn btn-success btn-lg">Beli</a>
+              <h5 class="card-title">NYK NEMESIS X 900 / X900 SPECTRUM ELITE Bluetooth Gaming Headset</h5>
+              <p class="card-text">Kondisi: Baru, Berat: 900 Gram, Kategori: Headset Gaming, NYK NEMESIS X-900 SPECTRUM ELITE Bluetooth Gaming Headset with RGB Lighting 100% PRODUK RESMI, 100% PRODUK ORIGINAL, GARANSI RESMI 1 TAHUN</p>
+              <a href="https://www.tokopedia.com/gaptechofficial/nyk-nemesis-x-900-x900-spectrum-elite-bluetooth-gaming-headset?whid=0" class="btn btn-success btn-lg">Beli</a>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card">
-            <img src="https://ecs7.tokopedia.net/img/cache/900/attachment/2019/10/1/156992605052964/156992605052964_53630ad1-c8b0-47fe-9ba6-62ccb0b8e923.png" class="card-img-top"></img>
+            <img src="https://images.tokopedia.net/img/cache/500-square/product-1/2020/8/11/97642957/97642957_ddc1eebc-9ba0-4742-911f-19fc1719d914_1440_1440.webp?ect=4g" class="card-img-top"></img>
             <div class="card-body">
-              <h5 class="card-title">NINTENDO SWITCH LITE GREY R3</h5>
-              <p class="card-text">REGION : Jepang / Taiwan / Ausie / Asia / Eur (tergantung stock dari supplier) Switch Region Free (tidak ngaruh apa2)LANGUAGE : ENGLISH</p>
-              <a href="https://www.tokopedia.com/gam35tation/nintendo-switch-lite-grey-r3?src=topads" class="btn btn-success btn-lg">Beli</a>
+              <h5 class="card-title">Redragon Mechanical Gaming Keyboard Optical RGB BRAHMA - K586RGB-PRO</h5>
+              <p class="card-text">Kondisi: Baru, Berat: 2.300 Gram, Kategori: Keyboard Gaming, Ultimate Keyboard of Redragon - Attention, please! Redragon K586 BRAHMA is in the house, the blend of each unique, extraordinary and practical Redragon keyboard features. The real ALL-IN-ONE pro gear, the epic combination.</p>
+              <a href="https://www.tokopedia.com/redragon/redragon-mechanical-gaming-keyboard-optical-rgb-brahma-k586rgb-pro" class="btn btn-success btn-lg">Beli</a>
             
             </div>
           </div>
