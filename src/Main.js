@@ -29,7 +29,7 @@ export default function tgs5() {
         </Route>
       </Switch>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Toserba Adios!</a>
+        <a class="navbar-brand" href="#">Toko ReyPedia!</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -52,7 +52,7 @@ function Topics() {
   return (
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Toserba Adios!</a>
+        <a class="navbar-brand" href="#">Toko ReyPedia!</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -67,13 +67,13 @@ function Topics() {
       <h2>Abouts</h2>
       <ul>
       <li>
-          <Link to={`${url}/Alan Perdhana Timor`}>Nama</Link>
+          <Link to={`${url}/M Rayhan Akbar Putra`}>Nama</Link>
         </li>
         <li>
-          <Link to={`${url}/erevalan@gmail.com`}>Email</Link>
+          <Link to={`${url}/nxy929@gmail.com`}>Email</Link>
         </li>
         <li>
-          <Link to={`${url}/Username: AlanPerdhanaTimor`}>GitHub</Link>
+          <Link to={`${url}/Username: MRayhanAP`}>GitHub</Link>
         </li>
       </ul>
 
@@ -167,7 +167,7 @@ function ProtectedPage() {
   return (
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Toserba Adios!</a>
+        <a class="navbar-brand" href="#">Toko ReyPedia!</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -179,7 +179,7 @@ function ProtectedPage() {
         </div>
       </nav>
       <hr />
-      <h1 class="text-center">Toserba Adios!</h1>
+      <h1 class="text-center">DISKON 10%!!!!</h1>
       <br />
       <br />
       <br />
@@ -188,11 +188,12 @@ function ProtectedPage() {
       <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
           <div class="card">
-            <img src="https://ecs7.tokopedia.net/img/cache/900/product-1/2019/7/6/6329744/6329744_3f48deae-d058-4983-bab2-634e85795812_960_960.jpg" class="card-img-top"></img>
+            <img src="https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/2/1/48379d32-e840-4b0c-98fb-c47da1a89337.jpg.webp?ect=4g" class="card-img-top"></img>
             <div class="card-body">
-              <h5 class="card-title">Action Figure Anime Genos</h5>
-              <p class="card-text">Kualitas terbaik action figure anime one puch man Genos.Bagus untuk koleksi atau pajangan</p>
-              <a href="https://www.tokopedia.com/ummikidszone/best-action-figure-anime-genos" class="btn btn-success btn-lg">Beli</a>
+              <h5 class="card-title">Logitech G502 HERO High Performance Gaming Mouse</h5>
+              <p class="card-text">Kondisi: Baru, Berat: 1.000 Gram, Kategori: Mouse Gaming, GARANSI RESMI 2 tahun Logitech Indonesia (sesuai di kemasan)
+kemasan dan nota harus disertakan waktu klaim, Spesifikasi Teknis, Penelusuran, -Sensor: HERO', -Resolusi: 100 ''" 25.000 dpi, -Zero smoothing/akselerasi/filtering</p>
+              <a href="https://www.tokopedia.com/logitech-g/logitech-g502-hero-high-performance-gaming-mouse?whid=0" class="btn btn-success btn-lg">Beli</a>
 
             </div>
           </div>
@@ -264,12 +265,11 @@ Experience the enhanced comfort and feel of the new Xbox Wireless Controller.</p
         </div>
         <div class="col">
           <div class="card">
-            <img src="https://ecs7.tokopedia.net/img/cache/900/product-1/2018/12/5/17433/17433_41ef5f17-340d-4d7c-8c19-81aff1834a8a.jpg" class="card-img-top"></img>
+            <img src="https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/9/30/bb7ba333-35ce-4d91-ae69-94b974467299.jpg.webp?ect=4g"  class="card-img-top"></img>
             <div class="card-body">
-              <h5 class="card-title">Eachine E58 Drone Foldable Quadcopter</h5>
-              <p class="card-text">E58 merupakan drone yang dapat dilipat, sehingga mudah dibawa kemana saja. Drone ini memiliki Hold Mode Height untuk memberikan flight (penerbangan) 
-              yang stabil serta dilengkapi fungsi WiFi yang dapat dihubungkan dengan smartphone melalui APP</p>
-<a href="https://www.tokopedia.com/tanaga/eachine-e58-drone-foldable-quadcopter-wifi-with-2mp-wide-angle-camera?whid=0" class="btn btn-success btn-lg">Beli</a>
+              <h5 class="card-title">Moondrop Spaceship With Mic</h5>
+              <p class="card-text">Kondisi: Baru, Berat: 500 Gram, Kategori: Earphone, Etalase: Semua Etalase, Kondisi Baru dan Segel, Garansi 1 Tahun, Harga : 310.000, Kontak : 081212200060 (Rendy)</p>
+<a href="https://www.tokopedia.com/jabensurabaya/moondrop-spaceship-with-mic-garansi-1-tahun?utm_source=Android&utm_source=Android&utm_medium=Share&utm_medium=Share&utm_campaign=Product%20Share&utm_campaign=Product%20Share&_branch_match_id=848808794482655941" class="btn btn-success btn-lg">Beli</a>
             </div>
           </div>
         </div>
